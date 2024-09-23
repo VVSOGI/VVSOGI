@@ -10,4 +10,4 @@
 목표는 이놈 A 만들기
 
 ---
-[아주 예전 포트폴리오...](https://vvsogi-portfolio.netlify.app)
+[옛날옛적](https://vvsogi-portfolio.netlify.app)
