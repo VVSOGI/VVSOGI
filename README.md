@@ -1,4 +1,4 @@
-# Be irreplaceable people, Write replaceable code.
+## Be irreplaceable people, <br /> Write replaceable code.
 
 > [!NOTE]
 > I can do this all weekdays.
