@@ -1,4 +1,4 @@
-# Frontend Developer
+# Be irreplaceable people, Write replaceable code.
 
 > [!NOTE]
 > I can do this all weekdays.
